@@ -10,10 +10,6 @@ env/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
-# Raw datasets (dung lượng lớn ~95MB, tải trực tiếp từ Mendeley Data)
-data/raw/*.csv
-!data/raw/DescriptionDataCoSupplyChain.csv
-
 # OS generated files
 .DS_Store
 Thumbs.db
